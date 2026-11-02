@@ -12,71 +12,70 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Laura =====
-[1]Laura       |10:59:12 | 01-11-2026| login OK @laurasilvinaa | score=2580 rank=3055
-[1]Laura       |10:59:12 | 01-11-2026| serverTime=2026-11-01T10:59:11.000Z local=2026-11-01T10:59:12.720Z
+[1]Laura       |11:57:32 | 02-11-2026| login OK @laurasilvinaa | score=2690 rank=2903
+[1]Laura       |11:57:32 | 02-11-2026| serverTime=2026-11-02T11:57:32.000Z local=2026-11-02T11:57:32.531Z
 --> [1]Laura menjalankan: Claim Daily
-[1]Laura       |10:59:14 | 01-11-2026| daily: OK +10 poin score=2590
---> [1]Laura menjalankan: Auto All Tasks (10 pending)
-[1]Laura       |10:59:17 | 01-11-2026| [1/10] 1f121fe2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/laurasilvinaa/status/2116846895226241585
-[1]Laura       |10:59:17 | 01-11-2026| delay 10s...
-[1]Laura       |10:59:31 | 01-11-2026| [2/10] 044a9851 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/laurasilvinaa/status/2116847280915374526
-[1]Laura       |10:59:31 | 01-11-2026| delay 10s...
-[1]Laura       |10:59:43 | 01-11-2026| [3/10] 8ac1a107 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/laurasilvinaa/status/2116847013018421318
-[1]Laura       |10:59:43 | 01-11-2026| delay 10s...
-[1]Laura       |10:59:55 | 01-11-2026| [4/10] 7354ea5e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/laurasilvinaa/status/2116847193425748469
-[1]Laura       |10:59:55 | 01-11-2026| delay 10s...
-[1]Laura       |11:00:10 | 01-11-2026| [5/10] 07e2b02d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/laurasilvinaa/status/2116847153499493612
-[1]Laura       |11:00:10 | 01-11-2026| delay 10s...
-[1]Laura       |11:00:22 | 01-11-2026| [6/10] 70541c21 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/laurasilvinaa/status/2116847378040467814
-[1]Laura       |11:00:22 | 01-11-2026| delay 10s...
-[1]Laura       |11:00:38 | 01-11-2026| [7/10] 55940470 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/laurasilvinaa/status/2116847446878661004
-[1]Laura       |11:00:38 | 01-11-2026| delay 10s...
-[1]Laura       |11:00:55 | 01-11-2026| [8/10] 587d9c2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/laurasilvinaa/status/2116847620284156282
-[1]Laura       |11:00:55 | 01-11-2026| delay 10s...
-[1]Laura       |11:01:12 | 01-11-2026| [9/10] 28bea61c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/laurasilvinaa/status/2116847494841552952
-[1]Laura       |11:01:12 | 01-11-2026| delay 10s...
-[1]Laura       |11:01:32 | 01-11-2026| [10/10] 50117b4a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/laurasilvinaa/status/2116847740633744956
-[1]Laura       |11:01:32 | 01-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Laura       |11:01:40 | 01-11-2026| [1/1] 1f121fe2 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116836036588540 | proof=https://x.com/laurasilvinaa/status/2116847744564368081
+[1]Laura       |11:57:33 | 02-11-2026| daily: OK +10 poin score=2700
+--> [1]Laura menjalankan: Auto All Tasks (8 pending)
+[1]Laura       |11:57:35 | 02-11-2026| [1/8] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/laurasilvinaa/status/2117223978594452809
+[1]Laura       |11:57:35 | 02-11-2026| delay 10s...
+[1]Laura       |11:57:47 | 02-11-2026| [2/8] b7ad33b1 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/laurasilvinaa/status/2117224091125618275
+[1]Laura       |11:57:47 | 02-11-2026| delay 10s...
+[1]Laura       |11:58:01 | 02-11-2026| [3/8] 7f765e65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/laurasilvinaa/status/2117224406111099536
+[1]Laura       |11:58:01 | 02-11-2026| delay 10s...
+[1]Laura       |11:58:12 | 02-11-2026| [4/8] 1622c12e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/laurasilvinaa/status/2117224257446067624
+[1]Laura       |11:58:12 | 02-11-2026| delay 10s...
+[1]Laura       |11:58:28 | 02-11-2026| [5/8] 08fc1cbc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/laurasilvinaa/status/2117224540373107450
+[1]Laura       |11:58:28 | 02-11-2026| delay 10s...
+[1]Laura       |11:58:44 | 02-11-2026| [6/8] 947c8235 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/laurasilvinaa/status/2117224341697634505
+[1]Laura       |11:58:44 | 02-11-2026| delay 10s...
+[1]Laura       |11:58:57 | 02-11-2026| [7/8] a473652b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/laurasilvinaa/status/2117224519527161935
+[1]Laura       |11:58:57 | 02-11-2026| delay 10s...
+[1]Laura       |11:59:08 | 02-11-2026| [8/8] 9d9a53d3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/laurasilvinaa/status/2117224458172354587
+[1]Laura       |11:59:08 | 02-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Laura       |11:59:09 | 02-11-2026| [1/1] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117219978491654 | proof=https://x.com/laurasilvinaa/status/2117224409556130760
 --> [1]Laura menjalankan: Watch Anime
-[1]Laura       |11:01:41 | 01-11-2026| watch: semua video sudah completed
+[1]Laura       |11:59:10 | 02-11-2026| watch: semua video sudah completed
 --> [1]Laura menjalankan: Read Article
-[1]Laura       |11:01:43 | 01-11-2026| news: 32/33 artikel selesai dibaca
-[1]Laura       |11:01:44 | 01-11-2026| mint eligibility: {"userId":"1922976315243888640","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laurasilvinaa","status":"submitted","revision":"30be5b8a-e652-4bbb-b078-aa6d0906
-[1]Laura       |11:01:55 | 01-11-2026| news [1/1] oshi-labs-new-features-2026-11: OK completed=33
+[1]Laura       |11:59:14 | 02-11-2026| news: 33/34 artikel selesai dibaca
+[1]Laura       |11:59:15 | 02-11-2026| mint eligibility: {"userId":"1922976315243888640","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laurasilvinaa","status":"submitted","revision":"30be5b8a-e652-4bbb-b078-aa6d0906
+[1]Laura       |11:59:23 | 02-11-2026| news [1/1] oshi-nft-24h-volume-no2-2026-11: OK completed=34
 --> [1]Laura menjalankan: Quiz Anime
 --> [1]Laura menjalankan: Music Missions (realtime, bisa lama!)
-[1]Laura       |11:02:01 | 01-11-2026| music: kedua misi sudah tercapai, stop
-[1]Laura       |11:02:01 | 01-11-2026| mission music-listens-10: sudah diklaim
-[1]Laura       |11:02:01 | 01-11-2026| mission music-minutes-30: sudah diklaim
-[1]Laura       |11:02:01 | 01-11-2026| mission anime-completed-3: sudah diklaim
+[1]Laura       |11:59:29 | 02-11-2026| music: kedua misi sudah tercapai, stop
+[1]Laura       |11:59:29 | 02-11-2026| mission music-listens-10: sudah diklaim
+[1]Laura       |11:59:29 | 02-11-2026| mission music-minutes-30: sudah diklaim
+[1]Laura       |11:59:29 | 02-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laura menjalankan: Claim Missions
-[1]Laura       |11:02:02 | 01-11-2026| mission music-listens-10: sudah diklaim
-[1]Laura       |11:02:02 | 01-11-2026| mission music-minutes-30: sudah diklaim
-[1]Laura       |11:02:02 | 01-11-2026| mission anime-completed-3: sudah diklaim
+[1]Laura       |11:59:29 | 02-11-2026| mission music-listens-10: sudah diklaim
+[1]Laura       |11:59:29 | 02-11-2026| mission music-minutes-30: sudah diklaim
+[1]Laura       |11:59:29 | 02-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laura menjalankan: Check Eligibility
 
 --- eligibility [1]Laura ---
-  @laurasilvinaa | score=2580 rank=3055
-  tasks    [#####---------------] 3/13
+  @laurasilvinaa | score=2690 rank=2903
+  tasks    [#########-----------] 7/15
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [#################---] 11/13
-  artikel  [####################] 33/33
+  artikel  [####################] 34/34
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Laura menjalankan: Read Manga
-[1]Laura       |11:02:07 | 01-11-2026| manga: 0/13 chapter belum completed
+[1]Laura       |11:59:39 | 02-11-2026| manga: 0/13 chapter belum completed
 --> [1]Laura menjalankan: Get Gift
-[1]Laura       |11:02:09 | 01-11-2026| gift: 0/6 belum diterima
+[1]Laura       |11:59:40 | 02-11-2026| gift: 3/9 belum diterima
+[1]Laura       |11:59:41 | 02-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Laura       |11:59:45 | 02-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Laura       |11:59:47 | 02-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Laura menjalankan: Setup Profile
-[1]Laura       |11:02:10 | 01-11-2026| profile: bio="https://x.com/laurasilvinaa" fav=oshi rewardAt=1791812510
-[1]Laura       |11:02:10 | 01-11-2026| profile: bonus sudah diklaim, skip
+[1]Laura       |11:59:50 | 02-11-2026| profile: bio="https://x.com/laurasilvinaa" fav=oshi rewardAt=1791812510
+[1]Laura       |11:59:50 | 02-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Laura menjalankan: Bind Wallet
-[1]Laura       |11:02:12 | 01-11-2026| wallet: sudah terikat 3hVHVCUd7d... (solana)
+[1]Laura       |11:59:51 | 02-11-2026| wallet: sudah terikat 3hVHVCUd7d... (solana)
 
 == RINGKASAN ==
-- Laura: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
+- Laura: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
